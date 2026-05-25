@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm [Binari Jayasinghe]
 
-<!--
-**BinariJayasinghe/BinariJayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Business Analyst | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+I’m an undergraduate passionate about analyzing business needs and creating impactful digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📊 Aspiring Business Analyst
+- 🔍 Interested in Requirement Analysis & System Design
+- 🌱 Continuously learning and improving analytical skills
+- 🎯 Focused on solving real-world problems through technology
+
+## 💡 Skills
+- Requirement Analysis
+- Business Process Modeling
+- Problem Solving
+- System Analysis
+- Documentation & Research
+
+## 📌 Projects
+### 🏥 Medical Portal
+Worked on prescription management for a healthcare platform.
+
+### 📚 Publication Management System
+Built solutions to improve business processes and user experience.
+
+## 📫 Connect With Me
+- LinkedIn: [www.linkedin.com/in/binari-jayasinghe-314491314]
+- Email: [binarijayasinghe56@gmail.com]
+
+---
+✨ *Turning ideas into impactful digital solutions*
