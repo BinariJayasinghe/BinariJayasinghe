@@ -17,12 +17,6 @@ I’m an undergraduate passionate about analyzing business needs and creating im
 - System Analysis
 - Documentation & Research
 
-## 📌 Projects
-### 🏥 Medical Portal
-Worked on prescription management for a healthcare platform.
-
-### 📚 Publication Management System
-Built solutions to improve business processes and user experience.
 
 ## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/binari-jayasinghe-314491314]
